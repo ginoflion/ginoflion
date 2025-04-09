@@ -1,6 +1,7 @@
 ## Gonçalo Silva
 
 🎮 I'm a Game Development Engineering Student.
+
 👨🏾‍💻Currently studying Engineering in Digital Game Development at IPCA, Barcelos.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginoflion&layout=compact&theme=radical)
