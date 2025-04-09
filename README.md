@@ -3,7 +3,7 @@
 🎮 I'm a Game Development Engineering Student.
 👨🏾‍💻Currently studying Engineering in Digital Game Development at IPCA, Barcelos.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginoflion)](https://github.com/ginoflion/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginoflion&layout=compact)
 <!--
 **ginoflion/ginoflion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
