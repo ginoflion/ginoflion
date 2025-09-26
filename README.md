@@ -1,8 +1,9 @@
 ## Gonçalo Silva
 
-🎮 I'm a Game Development Engineering Student.
+👨🏾‍💻 I'm a Master’s student in Engineering and Management of Information Systems (MEGSI) at University of Minho.
 
-👨🏾‍💻Currently studying Engineering in Digital Game Development at IPCA, Barcelos.
+🎮 I completed my Bachelor's in Engineering in Digital Game Development at IPCA, Barcelos.
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginoflion&layout=compact&theme=radical)
 
