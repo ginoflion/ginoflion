@@ -5,7 +5,7 @@
 🎮 I completed my Bachelor's in Engineering in Digital Game Development at IPCA, Barcelos.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginoflion&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginoflion&layout=compact&theme=radical&langs_count=10)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
