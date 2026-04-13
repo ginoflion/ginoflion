@@ -1,8 +1,7 @@
 ## Gonçalo Silva
 
-👨🏾‍💻 I'm a Master’s student in Engineering and Management of Information Systems (MEGSI) at University of Minho.
-
-🎮 I completed my Bachelor's in Engineering in Digital Game Development at IPCA, Barcelos.
+Master’s student in Engineering and Management of Information Systems (MEGSI) at University of Minho.
+Bachelor's in Engineering in Digital Game Development at IPCA, Barcelos.
 
 
 
